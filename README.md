@@ -30,21 +30,21 @@ NEXORA-2K26
 
 ### College Name
 
-`________________________________________`
+`Alagappa Chettiar College of Engineering and Technology,Karaikudi-630 003______________________________________`
 
 ### Team Name
 
-`________________________________________`
+`__Nexgen______________________________________`
 
 ### Team Members
 
 **Member 1**
 
-* Name: `________________________________`
+* Name: `____M.S.Nekha Sree____________________________`
 
 **Member 2**
 
-* Name: `________________________________`
+* Name: `___K.Siviya_____________________________`
 
 
 # About the Challenge
